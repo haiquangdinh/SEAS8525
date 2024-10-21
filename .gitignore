@@ -1,4 +1,7 @@
 # unrelated
+images/
+content/
+checkpoint/
 data/
 *.keras
 logs/
